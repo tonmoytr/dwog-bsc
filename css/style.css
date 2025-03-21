@@ -107,7 +107,7 @@ button:hover {
   padding-inline: 2rem;
   padding-block: 0.5rem;
 
-  background-color: #dd5020;
+  background-color: #fa983a;
 }
 #header-box {
   width: 100%;
@@ -146,7 +146,7 @@ button:hover {
   padding-block: 2rem;
 
   text-align: center;
-  background-color: #f7784e;
+  background-color: #f3ba2f;
   color: var(--clr-2);
   /* background-image: url(../img/bg/bg-2.jpg); */
   background-position: center;
@@ -191,8 +191,8 @@ button:hover {
   text-wrap: nowrap;
   overflow-x: hidden;
 
-  background-color: #dd5020;
-  background: linear-gradient(90deg, #dd5020, #dd5020);
+  background-color: #fa983a;
+  background: linear-gradient(90deg, #fa983a, #fa983a);
 }
 
 #slogan span {
@@ -222,7 +222,7 @@ button:hover {
 /*-- about --*/
 
 #about {
-  background-color: #f7784e;
+  background-color: #f3ba2f;
 }
 #about-box {
   width: 100%;
@@ -255,7 +255,7 @@ button:hover {
   padding-block: 0;
 
   color: var(--clr-2);
-  background-color: #dd5020;
+  background-color: #fa983a;
 }
 #info-box {
   width: 100%;
@@ -293,7 +293,7 @@ button:hover {
 /*-- token --*/
 
 #token {
-  background-color: #f7784e;
+  background-color: #f3ba2f;
 
   text-align: center;
 }
@@ -368,7 +368,7 @@ button:hover {
 #join {
   padding-block: 0;
   margin-bottom: -5rem;
-  background-color: #f7784e;
+  background-color: #f3ba2f;
 }
 #join-box {
   padding: 5rem;
@@ -383,7 +383,7 @@ button:hover {
   border-radius: 1rem;
 
   color: var(--clr-2);
-  background-color: #dd5020;
+  background-color: #fa983a;
   /* background-image: url(../img/bg/bg-3.png); */
   background-position: top;
   background-repeat: no-repeat;
@@ -399,7 +399,7 @@ button:hover {
   padding-bottom: 2rem;
   padding-inline: 2rem;
   color: var(--clr-2);
-  background-color: #f7784e;
+  background-color: #f3ba2f;
 }
 #footer span {
   color: var(--clr-4);
